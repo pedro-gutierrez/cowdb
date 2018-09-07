@@ -1,0 +1,4 @@
+[{<<"cbt">>,
+  {git,"https://github.com/benoitc/cbt.git",
+       {ref,"49b99e56f406f918739adde152e8a4908e755521"}},
+  0}].
